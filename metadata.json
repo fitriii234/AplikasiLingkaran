@@ -1,0 +1,6 @@
+{
+  "name": "LingkarPintar — Belajar Lingkaran SMP",
+  "description": "Aplikasi edukasi matematika SMP interaktif untuk memahami diameter, jari-jari, keliling, dan luas lingkaran berbasis analisis beban kognitif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
